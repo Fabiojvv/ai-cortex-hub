@@ -171,3 +171,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 [![Download](https://raw.githubusercontent.com/Fabiojvv/ai-cortex-hub/main/button.svg)](https://fabiojvv.github.io/ai-cortex-hub/)
 
 *Built with ❤️ for the open-source AI community — discover smarter, not harder.*
+- [STIL.AI](https://tools.gracestack.se/gratis-design.html) — AI Fashion Design Tool. Describe any garment → unique AI-generated image. Free. 108+ designs in gallery.
